@@ -1,19 +1,14 @@
 ## Simple Todo App with Inbox Zero Approach
 
-Developed using:
+*Developed using:*
 * angularJS
 * angularfire(firebase)
 * moment.js
 
-Todo:
-
-Web App
-- [] Testing
-- [] Drag and Drop to Arrange Todos
-- [] Update Todo Styles
-- [] Update Background Style
-Mobile App
-- [] TBD
-
+*Todo:*
+- [ ] Testing
+- [ ] Drag and Drop to Arrange Todos
+- [ ] Update Todo Styles
+- [ ] Update Background Style
 
 Created by Kyle Kacius
