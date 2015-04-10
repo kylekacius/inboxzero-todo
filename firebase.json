@@ -1,0 +1,9 @@
+{
+  "firebase": "ang-todo-app",
+  "public": "app",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

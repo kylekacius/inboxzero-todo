@@ -1,0 +1,23 @@
+<div ng-switch on="selection" class="modal-body">
+
+<div class="row" ng-switch-default>
+<div class="col-xs-6 no-pd">
+   <div class="schedule-option" ng-click="ok('laterToday')"><div><span class="glyphicon glyphicon-lamp"></div><div>Later Today</div></div>
+   <div class="schedule-option" ng-click="ok('tomorrow')"><div><span class="glyphicon glyphicon-glass"></div><div>Tomorrow</div></div>
+   <div class="schedule-option" ng-click="ok('thisWeekend')"><div><span class="glyphicon glyphicon-step-forward"></div><div>This Weekend</div></div>
+</div>
+<div class="col-xs-6 no-pd">
+   <div class="schedule-option" ng-click="ok('nextWeek')"><div><span class="glyphicon glyphicon-arrow-right"></div><div>Next Week</div></div>
+   <div class="schedule-option" ng-click="ok('nextMonth')"><div><span class="glyphicon glyphicon-folder-close"></div><div>Next Month</div></div>
+   <div class="schedule-option" ng-click="openCal()"><div><span class="glyphicon glyphicon-calendar"></div><div>Set Date</div></div>
+</div>
+</div>
+
+<div ng-switch-when="calendar">
+   <div style="display:inline-block; min-height:270px;">
+       <datepicker ng-model="dt" min-date="minDate" show-weeks="false" class="well well-sm"></datepicker>
+   </div>
+   <button type="button" class="btn btn-default btn-md btn-block" ng-click="ok('setDate', dt)"> Set Date </button>
+</div>
+
+</div>

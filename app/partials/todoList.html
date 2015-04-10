@@ -1,0 +1,39 @@
+<div class="container">
+  <div class="row" ng-show="down">
+    <div class="col-sm-offset-4 col-sm-4">
+      <form class="list-group list-group-item" ng-submit="submit()">
+        <input class="input-form" type="text" ng-model="newTodo" todo-focus="down"/>
+      </form>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-offset-4 col-sm-4">
+      <ul class="list-group">
+        <li class="list-group-item repeated-item" ng-mouseenter="show = true" ng-mouseleave="show = false" ng-repeat="todo in filtered = (todos | isAfter:snooze) track by todo.$id" ng-class="{editing: todo == editedTodo}">
+          <div class = "view">
+            <label class="todo-text" ng-click="edit(todo.$id)">{{todo.text}}</label>
+            <div ng-show="show" class="listgroup">
+            <span ng-click="open(size,todo.$id)" class="glyphicon glyphicon-repeat warning" showonhoverparent></span>
+            <span ng-click="done(todo.$id)" class="glyphicon glyphicon-ok success"></span>
+            </div>
+          </div>
+          <form ng-submit="doneEdit(todo.$id)">
+            <input class="edit" ng-model="todo.text" todo-blur="doneEdit(todo.$id)" todo-escape="revertEdit(todo.$id)" todo-focus="todo == editedTodo">
+          </form>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div ng-show="!down" class="row">
+    <div class="col-sm-offset-4 col-sm-4">
+      <div class="helper-info" ng-show="profile.userStatus == 0"> 
+        <div><h4>Press the Down Arrow Key to Add a Todo</h4></div>
+        <div><span class="size-bg glyphicon glyphicon-arrow-down"></span></div>
+      </div>
+
+      <div class="helper-info" ng-show="filtered.length == 0">
+         <div><span ng-show="profile.userStatus == 1" class="size-bg glyphicon glyphicon-thumbs-up"></span></div>
+      </div>
+    </div>
+  </div> 
+</div>

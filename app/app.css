@@ -1,0 +1,202 @@
+/* app css stylesheet*/
+
+/****************************  GLOBAL  **********************************/
+.footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background:#fff;
+}
+
+.no-pd{
+  padding: 0px;
+}
+
+/****************************  MAIN  ***********************************/
+.top{
+  margin-top: 50px;
+}
+
+
+/****************************  TODO FORM  ******************************/
+
+.helper-info{
+  color: rgb(221, 221, 221);
+  font-size: 15px;
+  display: block;
+  text-align: center;
+  margin-top: 60%;
+}
+.size-bg{
+  font-size: 50px;
+}
+
+/*TODO INPUT FORM*/
+input {
+  outline: none;
+  border: none;
+}
+
+/* todo list */
+.list-group li.editing .view {
+  display:none;
+}
+
+.list-group li .edit {
+  display: none;
+}
+.list-group li.editing .edit {
+  display: block;
+}
+
+.list-group {
+  overflow: hidden;
+  border-left: 1px solid rgb(221, 221, 221);
+  border-right: 1px solid rgb(221, 221, 221);
+}
+
+.list-group-item:first-child, .list-group-item:last-child {
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  overflow: hidden;
+}
+
+.focus-effect: {
+  border-left: 1px solid rgb(221, 221, 221) !important;
+  border-right: 1px solid rgb(221, 221, 221) !important;
+}
+
+.list-group-item {
+  border-left: 0px solid rgb(221, 221, 221);
+  border-right: 0px solid rgb(221, 221, 221);
+}
+
+
+.listgroup{
+  float: right;
+  cursor: pointer;
+  white-space: nowrap;
+  padding: 0px 0px;
+  margin-bottom: -1px;
+  color: rgb(235, 235, 235)
+}
+
+.input-form{
+  width: 100%;
+}
+
+.repeated-item.ng-enter {
+    -webkit-transition:0.3s linear all;
+    -moz-transition:0.3s linear all;
+    -o-transition:0.3s linear all;
+    transition:0.3s linear all;
+    max-height: 0;
+    opacity: 0;
+    left: -30px;
+}
+ 
+.repeated-item.ng-enter.ng-enter-active {
+    max-height: 100px;
+    opacity: 1;
+    left: 0;
+}
+ 
+.repeated-item.ng-leave {
+  -webkit-animation:0.25s my_animation;
+  -moz-animation:0.25s my_animation;
+  -o-animation:0.25s my_animation;
+  animation:0.25s my_animation;
+}
+ 
+@keyframes my_animation {
+  from {
+    max-height: 100px;
+    opacity: 1;
+    left: 0;
+  }
+  to {
+    max-height: 0;
+    opacity: 0;
+    left: -30px;
+  }
+}
+
+@-webkit-keyframes my_animation {
+  from {
+    max-height: 100px;
+    opacity: 1;
+    left: 0;
+  }
+  to {
+    max-height: 0;
+    opacity: 0;
+    left: -30px;
+  }
+}
+ 
+@-moz-keyframes my_animation {
+  from {
+    max-height: 100px;
+    opacity: 1;
+    left: 0;
+  }
+  to {
+    max-height: 0;
+    opacity: 0;
+    left: -30px;
+  }
+}
+ 
+@-o-keyframes my_animation {
+  from {
+    max-height: 100px;
+    opacity: 1;
+    left: 0;
+  }
+  to {
+    max-height: 0;
+    opacity: 0;
+    left: -30px;
+  }
+}
+
+/* schedule modal */
+.modal-dialog {
+  width: 305px;
+}
+
+.schedule-option {
+  cursor: pointer;
+  display: block;
+  text-align: center;
+  border: 1px solid rgb(225, 221, 221);
+  padding: 20px 5px;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+.schedule-option:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.modal-backdrop {
+  bottom: 0;
+  position: fixed;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+/*************************  REFERENCES  **********************************
+http://stackoverflow.com/questions/22998183/how-can-i-animate-the-movement-of-remaining-ng-repeat-items-when-one-is-removed
+*/
+

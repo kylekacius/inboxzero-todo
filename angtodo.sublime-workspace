@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$fire",
+				"$firebaseObject"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"$fireb",
+				"$firebaseArray"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"list",
+				"list-group"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"d",
+				"dt"
+			],
+			[
+				"list-grou",
+				"list-group-item"
+			],
+			[
+				"l",
+				"list-group-item"
+			],
+			[
+				"sch",
+				"schedule-option"
+			],
+			[
+				"an",
+				"angular-animate"
+			],
+			[
+				"ang",
+				"angular-route"
+			],
+			[
+				"$doc",
+				"$document"
+			],
+			[
+				"m",
+				"myservice"
+			],
+			[
+				"my",
+				"myApp"
+			],
+			[
+				"dire",
+				"verbose_directive	AngularJS"
+			],
+			[
+				"$ro",
+				"$rootScope	AngularJS(DI)"
+			],
+			[
+				"sc",
+				"SCRIPT	Tag"
+			],
+			[
+				"li",
+				"list-group"
+			],
+			[
+				"auth",
+				"authData"
+			],
+			[
+				"$f",
+				"$firebaseAuth"
+			],
+			[
+				"$r",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$rout",
+				"$routeProvider	AngularJS(DI)"
+			],
+			[
+				"$lo",
+				"$location	AngularJS"
+			],
+			[
+				"$l",
+				"$location	AngularJS"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"sele",
+				"selectedItem"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"Auth",
+				"AuthCtrl"
+			],
+			[
+				"$moda",
+				"$modalInstance"
+			],
+			[
+				"todo",
+				"todoControllers"
+			],
+			[
+				"$route",
+				"$routeChangeError	AngularJS (E)"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"p",
+				"partials"
+			],
+			[
+				"res",
+				"resolveUser"
+			],
+			[
+				"ng",
+				"ng-repeat"
+			],
+			[
+				"Modal",
+				"ModalInstanceCtrl"
+			],
+			[
+				"modal",
+				"modalInstance"
+			],
+			[
+				"CONFI",
+				"configuration"
+			],
+			[
+				"RESTR",
+				"restrictable"
+			],
+			[
+				"character",
+				"characteristics"
+			],
+			[
+				"Rest",
+				"restrictable"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Charac",
+				"characteristics"
+			],
+			[
+				"multiple",
+				"multiple"
+			],
+			[
+				"control",
+				"controller"
+			],
+			[
+				"contro",
+				"controller"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssss",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/controllers.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/todoList.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/app.css",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/index.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/home.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/app.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/mobile.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/register.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/banner.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/timeModal.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/bower_components/angularfire/dist/angularfire.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/bower.json",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/mobile.html",
+		"/C/Users/kyle.kacius/Desktop/new/webcommercemanagegroup.impex",
+		"/C/Users/kyle.kacius/Desktop/new/SalesDistrict.xlsx",
+		"/C/Users/kyle.kacius/Desktop/new/salesdistrict-name_fi_FI.impex",
+		"/C/Users/kyle.kacius/Desktop/new/catalogs-sync.impex",
+		"/C/Users/kyle.kacius/Desktop/new/cms-content_fi_FI.impex",
+		"/C/Users/kyle.kacius/Desktop/new/orderheaderStatus_fi_FI.impex",
+		"/C/Users/kyle.kacius/Desktop/new/cms-content.impex",
+		"/C/Users/kyle.kacius/Desktop/new/bComCMS-Website.impex",
+		"/C/Users/kyle.kacius/Desktop/new/catalog.impex",
+		"/C/Users/kyle.kacius/Desktop/new/catalog_fi_FI.impex",
+		"/C/Users/kyle.kacius/Desktop/new/bComCMS-Store.impex",
+		"/C/Users/kyle.kacius/Desktop/new/webcontructionleadgroup.impex",
+		"/C/Users/kyle.kacius/Desktop/precita-housewarming",
+		"/C/Users/kyle.kacius/Desktop/new/bComCronJobs.impex",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/firebase-angular/js/controllers/todoCtrl.js",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/firebase-angular/index.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/directives/todoFocus.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/directives/todoEscape.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/directives/todoBlur.js",
+		"/C/Users/kyle.kacius/AppData/Local/Temp/wz7ea3/css3maker.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/snoozeModal-calendar.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/timeModal.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/package.json",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/directives/autofocus.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/README.md",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/.git/config",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/.git/description",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/.git/index",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/bower_components/angular-bootstrap/ui-bootstrap.js",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/firebase-angular/js/directives/todoBlur.js",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/firebase-angular/js/directives/todoEscape.js",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/firebase-angular/js/directives/todoFocus.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/bower_components/angular/angular.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/todoFocus.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/todoBlur.js",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/template/bower_components/todomvc-common/base.css",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/template/css/app.css",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/firebase-angular/js/app.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/bower_components/angular-route/angular-route.js",
+		"/C/Users/kyle.kacius/Dropbox/AngularJS_Firebase_Part1/package.json",
+		"/C/Users/kyle.kacius/Dropbox/angularfire-seed/app/js/simpleLogin.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/Simple/examples/modal.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/Simple/examples/modal.html",
+		"/C/hybris_5_4/hybris/config/localextensions.xml",
+		"/C/hybris_5_4/hybris/config/local.properties",
+		"/C/hybris_5_4/hybris/bin/platform/.classpath",
+		"/C/Users/kyle.kacius/Dropbox/angularfire-seed/app/js/firebase.utils.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/simpleLogin.js",
+		"/C/Users/kyle.kacius/Dropbox/ang-news-master/app/views/login.html",
+		"/C/Users/kyle.kacius/Dropbox/ang-news-master/app/scripts/services/auth.js",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/angularjs/js/app.js",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/angularjs/js/services/todoStorage.js",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/angularjs/js/controllers/todoCtrl.js",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/angularjs/index.html",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/firebase-angular/bower.json",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/firebase-angular/bower_components/todomvc-common/base.css",
+		"/C/Users/kyle.kacius/Dropbox/ang-news-master/app/scripts/app.js",
+		"/C/Users/kyle.kacius/Dropbox/angularfire-seed/app/js/config.js",
+		"/C/Users/kyle.kacius/Dropbox/angularfire-seed/app/js/routes.js",
+		"/C/Users/kyle.kacius/Dropbox/angularfire-seed/app/index.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/Simple/scratch.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/services/auth.js",
+		"/C/Users/kyle.kacius/Dropbox/angularfire-seed/package.json",
+		"/C/Users/kyle.kacius/Dropbox/ang-news-master/app/index.html",
+		"/C/Users/kyle.kacius/Dropbox/todomvc/examples/firebase-angular/bower_components/todomvc-common/base.js",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/Simple/index.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/todoCtrl.js",
+		"/C/Users/kyle.kacius/Dropbox/Todo/app/view1/view1.js",
+		"/C/Users/kyle.kacius/Desktop/data.csv",
+		"/C/Users/kyle.kacius/Desktop/QUESTIONS.sh",
+		"/C/Program Files (x86)/Git/doc/git/html/git.html",
+		"/C/Users/kyle.kacius/Dropbox/angular-seed/app/index.html",
+		"/C/Users/kyle.kacius/Dropbox/angular-seed/app/bower_components/bootstrap/README.md",
+		"/C/Users/kyle.kacius/Dropbox/angular-seed/app/view1/view1.html",
+		"/C/Users/kyle.kacius/Dropbox/angular-seed/bower.json",
+		"/C/Users/kyle.kacius/Dropbox/angular-seed/package.json",
+		"/C/Users/kyle.kacius/Google Drive/Career & Resumes/Weebly/cv.txt",
+		"/C/Users/kyle.kacius/Dropbox/Todo/Simple/code.js",
+		"/C/Users/kyle.kacius/Dropbox/Todo/app/app.css",
+		"/C/Users/kyle.kacius/Dropbox/Todo/Simple/View2.html",
+		"/C/Users/kyle.kacius/Dropbox/Todo/Simple/View1.html",
+		"/C/Users/kyle.kacius/.ssh/id_rsa",
+		"/C/Users/kyle.kacius/.ssh/id_rsa.pub",
+		"/C/Users/kyle.kacius/Box Sync/Programming/simpleTodo/View2.html",
+		"/C/Users/kyle.kacius/Box Sync/Programming/simpleTodo/View1.html",
+		"/C/Users/kyle.kacius/Desktop/simpleTodo/index.html",
+		"/C/Users/kyle.kacius/todomvc/examples/angularjs/index.html",
+		"/C/Users/kyle.kacius/todomvc/examples/angularjs/js/app.js",
+		"/C/Users/kyle.kacius/todomvc/examples/angularjs/js/controllers/todoCtrl.js",
+		"/C/Users/kyle.kacius/Desktop/simpleTodo/code",
+		"/C/Users/kyle.kacius/Dropbox/Books/DecodeAndConcor_highlights.csv",
+		"/C/Users/kyle.kacius/Desktop/simpleTodo/bootstrap/main.css",
+		"/C/Users/kyle.kacius/Desktop/simpleTodo/code.js",
+		"/C/Users/kyle.kacius/todomvc/examples/angularjs/bower_components/bootstrap/README.md",
+		"/C/Users/kyle.kacius/todomvc/examples/angularjs/bower_components/todomvc-common/base.css",
+		"/C/Users/kyle.kacius/todomvc/examples/firebase-angular/js/app.js",
+		"/C/Users/kyle.kacius/todomvc/examples/firebase-angular/bower_components/todomvc-common/base.js",
+		"/C/Users/kyle.kacius/todomvc/examples/firebase-angular/bower.json",
+		"/C/Users/kyle.kacius/todomvc/examples/firebase-angular/bower_components/angularfire/angularfire.js",
+		"/C/Users/kyle.kacius/todomvc/template/index.html",
+		"/C/Users/kyle.kacius/todomvc/readme.md",
+		"/C/Users/kyle.kacius/test.html",
+		"/C/Users/kyle.kacius/todomvc/examples/firebase-angular/index.html",
+		"/C/Users/kyle.kacius/bower_components/bootstrap/README.md",
+		"/C/Users/kyle.kacius/Dropbox/Programming/angular-phonecat/bower.json",
+		"/C/Users/kyle.kacius/Dropbox/Programming/courseapp/templates/base.html",
+		"/C/Users/kyle.kacius/Dropbox/Programming/ang-news/app/index.html",
+		"/C/Users/kyle.kacius/Dropbox/Programming/angular-phonecat/app/index.html",
+		"/C/Users/kyle.kacius/Dropbox/Programming/angular-phonecat/app/partials/phone-list.html",
+		"/C/Users/kyle.kacius/todomvc/index.html",
+		"/C/Users/kyle.kacius/Dropbox/Programming/courseapp/blog.py",
+		"/C/Users/kyle.kacius/Desktop/Service Mappings/order_search.xsd",
+		"/C/Users/kyle.kacius/Desktop/Service Mappings/ORDER_CREATE_SERVICE.xsd",
+		"/C/Users/kyle.kacius/Desktop/Service Mappings/ORDER_DETAIL.xsd",
+		"/C/Users/kyle.kacius/Desktop/Service Mappings/SHIP_SERVICE.xsd"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\kyle.kacius\\Dropbox\\angtodo",
+			"C:\\Users\\kyle.kacius\\Dropbox\\angtodo\\app",
+			"C:\\Users\\kyle.kacius\\Dropbox\\angtodo",
+			"C:\\Users\\kyle.kacius\\Dropbox\\ang-news-master",
+			"C:\\Users\\kyle.kacius\\Dropbox\\angtodo",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/mobile",
+			"\\mobile",
+			"post",
+			"SAPproducttext",
+			"SAP",
+			"SAPsales",
+			"sales",
+			"natl",
+			"nat_sto",
+			"nat",
+			"stock",
+			"homeCtrl",
+			"HomeCtrl",
+			";\n",
+			"location",
+			"$location",
+			"location.path",
+			"/test",
+			"Firebase",
+			"logout",
+			"$firebase",
+			"•",
+			"foot",
+			"footer",
+			"link",
+			"download",
+			"-50",
+			"90",
+			"escape",
+			"focus",
+			"blur",
+			"keypress",
+			"list-group-item",
+			"list-group",
+			"panel",
+			"panel-footer",
+			"animate-repeat",
+			"console.log",
+			"todoBlur",
+			"size",
+			"modal",
+			"down",
+			"input",
+			"editing",
+			"}\n",
+			"a",
+			"block",
+			"form",
+			"todo-list",
+			"Auth",
+			"logout",
+			"\"",
+			"[\"",
+			"\"",
+			"test",
+			"\"",
+			"$scope.authObj",
+			"body",
+			"\"",
+			"body",
+			"facebook",
+			"selectedItem",
+			"JSON",
+			"items",
+			"modal",
+			"open",
+			"myApp",
+			"\"",
+			"$routeProvider",
+			"\"",
+			"modulerr",
+			"$rootScope",
+			"AuthProvider",
+			"auth",
+			"email",
+			"$firebaseSimpleLoginProvider",
+			"$scope.signedIn = Auth.signedIn;",
+			"getCurrentUser",
+			"focus",
+			"todos",
+			"class",
+			"fire",
+			"watch",
+			"backdrop.html",
+			"Character",
+			"{",
+			";",
+			"Requirement Description:",
+			"[\\n\\r].*Requirement Description:\\s*([^\\n\\r]*)",
+			"<(.*?)>",
+			"all",
+			"task",
+			"expertise",
+			"<a href=\"",
+			"Use Case Summary",
+			",",
+			"DefaultAccountRibbonComponent",
+			"Defaul",
+			"leftnavcomponent",
+			"AccountRibbonComponent",
+			"DefaultAccountRibbonComponent",
+			"DefaultAccountRibbonComponen",
+			"cmscomponents",
+			"defaultaccountribbon",
+			"\\0\\;",
+			"/\\0\\",
+			"controller/.*?<",
+			"replacement gau",
+			"replacement",
+			"---",
+			" ",
+			"  ",
+			"/",
+			"[\\(\\,\\)\\.\\&]",
+			"[\\(\\,\\)\\.\\&\\/]",
+			"[\\(\\,\\)\\.]",
+			"/_/.*",
+			"<",
+			"controller/",
+			"controller.*?<",
+			"/",
+			"[^\\/]+$",
+			"[\\(\\,\\)\\.]",
+			"(",
+			"-&-",
+			"--",
+			" ",
+			"/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"$routeProvider",
+			",",
+			"-",
+			" ",
+			"-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true
+}
