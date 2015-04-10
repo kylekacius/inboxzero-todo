@@ -8,12 +8,12 @@ Developed using:
 Todo:
 
 Web App
-[] Testing
-[] Drag and Drop to Arrange Todos
-[] Update Todo Styles
-[] Update Background Style
+- [] Testing
+- [] Drag and Drop to Arrange Todos
+- [] Update Todo Styles
+- [] Update Background Style
 Mobile App
-[] TBD
+- [] TBD
 
 
 Created by Kyle Kacius
