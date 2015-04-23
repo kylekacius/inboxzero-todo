@@ -10,6 +10,8 @@
    background:#fff;
 }
 
+body { background: rgb(253, 253, 253);}
+
 .no-pd{
   padding: 0px;
 }
@@ -19,6 +21,11 @@
   margin-top: 50px;
 }
 
+.benefit-item {
+  margin-top: 45px;
+
+
+}
 
 /****************************  TODO FORM  ******************************/
 

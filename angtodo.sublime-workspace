@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
 				"$fire",
 				"$firebaseObject"
 			],
@@ -20,20 +28,12 @@
 				"console"
 			],
 			[
-				"margin",
-				"margin-top"
-			],
-			[
 				"in",
 				"inline-block"
 			],
 			[
 				"fon",
 				"font-size"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"list",
@@ -211,6 +211,15 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "Sub Combine()\nDim J As Integer\nOn Error Resume Next\nSheets(1).Select\nWorksheets.Add\nSheets(1).Name = \"Combined\"\nSheets(2).Activate\nRange(\"A1\").EntireRow.Select\nSelection.Copy Destination:=Sheets(1).Range(\"A1\")\nFor J = 2 To Sheets.Count\nSheets(J).Activate\nRange(\"A1\").Select\nSelection.CurrentRegion.Select\nSelection.Offset(1, 0).Resize(Selection.Rows.Count - 1).Select\nSelection.Copy Destination:=Sheets(1).Range(\"A65536\").End(xlUp)(2)\nNext\nEnd Sub\n\n",
+			"settings":
+			{
+				"buffer_size": 449,
+				"line_ending": "Windows",
+				"name": "Sub Combine()"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -284,11 +293,13 @@
 	},
 	"file_history":
 	[
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/home.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/index.html",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/app/app.css",
+		"/C/Users/kyle.kacius/Dropbox/angtodo/README.md",
+		"/C/Users/kyle.kacius/Dropbox/angtodo2/README.md",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/app/controllers.js",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/todoList.html",
-		"/C/Users/kyle.kacius/Dropbox/angtodo/app/app.css",
-		"/C/Users/kyle.kacius/Dropbox/angtodo/app/index.html",
-		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/home.html",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/app/app.js",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/app/mobile.html",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/app/partials/register.html",
@@ -321,7 +332,6 @@
 		"/C/Users/kyle.kacius/Dropbox/angtodo/app/timeModal.html",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/package.json",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/app/directives/autofocus.js",
-		"/C/Users/kyle.kacius/Dropbox/angtodo/README.md",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/.git/config",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/.git/description",
 		"/C/Users/kyle.kacius/Dropbox/angtodo/.git/index",
@@ -410,8 +420,7 @@
 		"/C/Users/kyle.kacius/Dropbox/Programming/courseapp/blog.py",
 		"/C/Users/kyle.kacius/Desktop/Service Mappings/order_search.xsd",
 		"/C/Users/kyle.kacius/Desktop/Service Mappings/ORDER_CREATE_SERVICE.xsd",
-		"/C/Users/kyle.kacius/Desktop/Service Mappings/ORDER_DETAIL.xsd",
-		"/C/Users/kyle.kacius/Desktop/Service Mappings/SHIP_SERVICE.xsd"
+		"/C/Users/kyle.kacius/Desktop/Service Mappings/ORDER_DETAIL.xsd"
 	],
 	"find":
 	{
@@ -586,8 +595,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								448,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Sub Combine()",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

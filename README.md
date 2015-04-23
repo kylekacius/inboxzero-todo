@@ -9,6 +9,6 @@
 - [ ] Testing
 - [ ] Drag and Drop to Arrange Todos
 - [ ] Update Todo Styles
-- [ ] Update Background Style
+- [x] Update Background Style
 
 Created by Kyle Kacius

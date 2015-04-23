@@ -22128,8 +22128,6 @@ var optionDirective = ['$interpolate', function($interpolate) {
   };
 }];
 
-
-
 var styleDirective = valueFn({
   restrict: 'E',
   terminal: true
